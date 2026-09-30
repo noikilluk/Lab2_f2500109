@@ -20,4 +20,4 @@ Install a small computer and program it to control the wheels, camera and sensor
 <h2>Step 6</h2>
 Test the rover on Earth to ensure everything works fine before sending it to space.
 <h2>Step 7</h2>
-Secure the rover inside a protective spacecraft and prepare it for its journey to the Moon.a 
+Secure the rover inside a protective spacecraft and prepare it for its journey to the Moon.
