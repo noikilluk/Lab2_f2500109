@@ -1,0 +1,4 @@
+Rover Design
+
+The rover will have four wheels, a camera,
+solar panels, and a water detection sensor.
