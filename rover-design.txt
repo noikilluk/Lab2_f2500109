@@ -1,0 +1,17 @@
+Rover Design
+
+The rover will have four wheels, a camera,
+solar panels, and a water detection sensor.
+
+## Components
+
+- Four wheels for movement
+- Camera for viewing the surroundings
+- Water sensor for detecting water
+- Solar panels for power
+- Antenna for communication
+
+## Structure
+
+The rover will use a strong, lightweight frame to hold
+the wheels and equipment.
